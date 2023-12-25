@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "台本ツール": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\tool\\台本作ーる\\bin"
+    }
+  }
+}
